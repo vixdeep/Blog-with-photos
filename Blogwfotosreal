@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>blog with photos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>Blog With Photos</h1>
+    <script src="main.js"></script>
+    <div>
+        <div>
+            <img src="https://tse4.mm.bing.net/th?id=OIP.RciXrncbXFTnfynsyiluOQHaEo&pid=Api&P=0&w=244&h=153">
+            "Forget not that the earth delights to feel your bare feet and the winds long to play with your hair". —Khalil Gibran
+        </div>
+        <div>
+<img src = "https://tse4.mm.bing.net/th?id=OIP.bIJLnubWnSoZh-DGo63TBQHaEo&pid=Api&P=0&w=271&h=170">
+            "To me a lush carpet of pine needles or spongy grass is more welcome than the most luxurious Persian rug."—Helen Keller
+        </div>
+        <div>
+        <img src = "https://tse4.mm.bing.net/th?id=OIP.1tMHHJdEVsH7eBF-0RlXFwHaFx&pid=Api&P=0&w=209&h=164">
+          "Nature does not hurry, yet everything is accomplished." —Lao Tzu  
+        </div>
+        <div>
+        <img src = "https://tse2.mm.bing.net/th?id=OIP.2p9EvfQRC3HRUNxj-KD_HwHaEo&pid=Api&P=0&w=270&h=169">
+        "Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth." —Henry David Thoreau
+        </div>
+    </div>
+</body>
+
+</html>
